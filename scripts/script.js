@@ -13,7 +13,7 @@ new Vue({
           name: "Mechanical Heartbeat",
           artist: "Eckur",
           cover: "https://raw.githubusercontent.com/muhammederdem/mini-player/master/img/1.jpg",
-          source: "https://raw.githubusercontent.com/muhammederdem/mini-player/master/mp3/1.mp3",
+          source: "../mp3/MECHANICAL_HEARTBEAT.mp3",
           url: "https://www.youtube.com/watch?v=z3wAjJXbYzA",
           favorited: false
         }
